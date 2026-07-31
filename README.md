@@ -62,4 +62,4 @@ Sistema desarrollado con Laravel para gestionar, organizar y visualizar audienci
 ## 📫 Contacto
 
 - Portafolio: https://jorge-troncoso.pages.dev/
-- GitHub: [vorsh98](https://github.com/vorsh98)
+- GitHub: [yorsh98](https://github.com/yorsh98)
