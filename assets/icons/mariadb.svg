@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="mariadb">
+  <rect width="256" height="256" rx="48" fill="#242938"/>
+  <path d="M40 190 Q64 150 100 160 Q120 100 176 96 Q216 94 224 60 Q214 150 168 170 Q130 184 112 214 Q92 196 40 190 Z" fill="#c0765a"/>
+  <circle cx="178" cy="84" r="7" fill="#242938"/>
+</svg>

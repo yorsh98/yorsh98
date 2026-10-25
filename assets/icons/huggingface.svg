@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="Hugging Face">
+  <rect width="256" height="256" rx="48" fill="#242938"/>
+  <circle cx="128" cy="122" r="78" fill="#ffd21e"/>
+  <ellipse cx="100" cy="106" rx="9" ry="12" fill="#3a3b45"/>
+  <ellipse cx="156" cy="106" rx="9" ry="12" fill="#3a3b45"/>
+  <path d="M92 138 Q128 176 164 138" fill="none" stroke="#3a3b45" stroke-width="10" stroke-linecap="round"/>
+  <ellipse cx="82" cy="136" rx="10" ry="7" fill="#ff9d00" opacity="0.7"/>
+  <ellipse cx="174" cy="136" rx="10" ry="7" fill="#ff9d00" opacity="0.7"/>
+  <path d="M62 196 Q80 176 100 196 M156 196 Q176 176 194 196" fill="none" stroke="#ffd21e" stroke-width="12" stroke-linecap="round"/>
+</svg>

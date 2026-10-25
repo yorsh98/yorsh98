@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="livewire">
+  <rect width="256" height="256" rx="48" fill="#242938"/>
+  <path d="M128 36 C128 36 70 110 70 154 A58 58 0 0 0 186 154 C186 110 128 36 128 36 Z" fill="#fb70a9"/>
+  <path d="M128 96 C128 96 100 134 100 156 A28 28 0 0 0 156 156 C156 134 128 96 128 96 Z" fill="#242938"/>
+</svg>
