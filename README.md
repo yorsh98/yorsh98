@@ -21,24 +21,24 @@ Desarrollador de software e inteligencia artificial. Me especializo en plataform
 
 | `jorge@santiago:~$ cat tech-stack.yaml` | |
 | :--- | :--- |
-| `├─ ✦ backend:` <br> [![Backend](https://skillicons.dev/icons?i=laravel,php,python,fastapi)](https://github.com/yorsh98) <br> `Laravel · PHP · Python · FastAPI` | `├─ ◈ ia_agentes:` <br> [![IA](https://skillicons.dev/icons?i=py,pytorch)](https://github.com/yorsh98) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square) ![Hugging Face](https://img.shields.io/badge/HF-FFD21E?style=flat-square&logo=huggingface&logoColor=black) <br> `LangGraph · LangChain · Ollama · Hugging Face · RAG` |
-| `├─ ▣ datos:` <br> [![Datos](https://skillicons.dev/icons?i=postgres,mysql,mariadb,redis)](https://github.com/yorsh98) <br> `PostgreSQL + pgvector · MySQL · MariaDB · Redis` | `├─ ⚙ infraestructura:` <br> [![Infra](https://skillicons.dev/icons?i=docker,linux,nginx,cloudflare,github)](https://github.com/yorsh98) <br> `Docker · Linux · Nginx · Cloudflare · GitHub` |
+| `├─ ✦ backend:` <br> [![Backend](https://skillicons.dev/icons?i=laravel,php,python,fastapi)](https://github.com/yorsh98) <br> `Laravel · PHP · Python · FastAPI` | `├─ ◈ ia_agentes:` <br> [![IA](https://skillicons.dev/icons?i=pytorch)](https://github.com/yorsh98) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square) ![Hugging Face](https://img.shields.io/badge/HF-FFD21E?style=flat-square&logo=huggingface&logoColor=black) <br> `LangGraph · LangChain · Ollama · Hugging Face · RAG` |
+| `├─ ▣ datos:` <br> [![Datos](https://skillicons.dev/icons?i=postgres,mysql,redis)](https://github.com/yorsh98) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) <br> `PostgreSQL + pgvector · MySQL · MariaDB · Redis` | `├─ ⚙ infraestructura:` <br> [![Infra](https://skillicons.dev/icons?i=docker,linux,nginx,cloudflare,github)](https://github.com/yorsh98) <br> `Docker · Linux · Nginx · Cloudflare · GitHub` |
 | `╰─ ◉ frontend:` <br> [![Frontend](https://skillicons.dev/icons?i=react,ts,tailwind,js,html,css)](https://github.com/yorsh98) <br> `React · TypeScript · Tailwind · JavaScript` | `status: ready · environment: production` |
 
 ---
 
 ## `$ ls proyectos/`
 
-**🧠 Plataforma de inteligencia artificial**
-Plataforma orientada al análisis documental, transcripción de audios, extracción de información y automatización mediante agentes especializados.
+**🧠 Plataforma de inteligencia artificial**<br>
+Plataforma orientada al análisis documental, transcripción de audios, extracción de información y automatización mediante agentes especializados.<br>
 `Python` `FastAPI` `LangGraph` `PostgreSQL/pgvector` `Docker`
 
-**🏛️ Sistema interno de administración**
-Sistema desarrollado con Laravel para gestionar, organizar y visualizar audiencias judiciales.
+**🏛️ Sistema interno de administración**<br>
+Sistema desarrollado con Laravel para gestionar, organizar y visualizar audiencias judiciales.<br>
 `Laravel` `MySQL` `Docker`
 
-**🔒 Anonimización de documentos**
-Herramienta local para anonimizar documentos con modelos NER, con editor web y agente de procesamiento.
+**🔒 Anonimización de documentos**<br>
+Herramienta local para anonimizar documentos con modelos NER, con editor web y agente de procesamiento.<br>
 `Laravel` `FastAPI` `Transformers`
 
 ---
