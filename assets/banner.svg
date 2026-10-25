@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-label="Jorge Troncoso - IA Developer y Solutions Architect">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#14233a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#39d0d8"/>
+      <stop offset="1" stop-color="#58a6ff"/>
+    </linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#58a6ff" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+    <style>
+      .mono { font-family: 'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace; }
+      .cursor { animation: blink 1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+      .fade { opacity: 0; animation: fade 0.9s ease forwards; }
+      .d1 { animation-delay: 0.2s; } .d2 { animation-delay: 0.7s; } .d3 { animation-delay: 1.2s; }
+      @keyframes fade { to { opacity: 1; } }
+      .pulse { animation: pulse 2.4s ease-in-out infinite; }
+      @keyframes pulse { 0%,100% { opacity: .35; } 50% { opacity: 1; } }
+    </style>
+  </defs>
+  <rect width="900" height="220" rx="14" fill="url(#bg)"/>
+  <rect width="900" height="220" rx="14" fill="url(#grid)"/>
+  <rect x="1" y="1" width="898" height="218" rx="13" fill="none" stroke="#58a6ff" stroke-opacity="0.25"/>
+
+  <circle cx="30" cy="28" r="6" fill="#ff5f56"/>
+  <circle cx="52" cy="28" r="6" fill="#ffbd2e"/>
+  <circle cx="74" cy="28" r="6" fill="#27c93f"/>
+  <text x="450" y="33" text-anchor="middle" class="mono" font-size="12" fill="#8b949e">jorge@santiago: ~</text>
+
+  <text x="60" y="95" class="mono fade d1" font-size="16" fill="#3fb950">$ <tspan fill="#8b949e">./hola_mundo --perfil</tspan></text>
+  <text x="60" y="150" class="mono fade d2" font-size="48" font-weight="700" fill="url(#accent)">Jorge Troncoso<tspan class="cursor" fill="#58a6ff">_</tspan></text>
+  <text x="62" y="185" class="mono fade d3" font-size="18" fill="#c9d1d9">IA Developer &amp; Solutions Architect</text>
+
+  <g class="pulse" fill="#39d0d8">
+    <circle cx="820" cy="80" r="4"/>
+    <circle cx="850" cy="110" r="3"/>
+    <circle cx="800" cy="140" r="3"/>
+    <circle cx="835" cy="170" r="4"/>
+  </g>
+  <path d="M820 80 L850 110 L800 140 L835 170" fill="none" stroke="#39d0d8" stroke-opacity="0.35" stroke-width="1.2"/>
+</svg>
